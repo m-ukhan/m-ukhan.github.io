@@ -18,7 +18,7 @@ I am a Research Professional with a specialization in **Signal & Image Processin
 ## 🔗 Connect with Me  
 - 📜 [ORCID](https://orcid.org/0000-0001-6992-6432)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/engrumarkhan)  
-- 🐦 [Twitter (X)](https://x.com/umarkhan353) ![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)  
+- 🐦 [X (Twitter)](https://x.com/umarkhan353) ![Twitter](https://img.shields.io/badge/X-000000?style=flat&logo=twitter&logoColor=white)  
 
 🚀 **Always open to research collaborations and discussions!**  
 
