@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Muhammad Umar Khan - Research & Projects"
+title: "Muhammad Umar Khan"
 ---
 
 # My Introduction
