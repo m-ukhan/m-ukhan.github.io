@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Muhammad Umar Khan - Research & Projects"
+---
+
 # Welcome to My Research Website
 
 I am Muhammad Umar Khan, a researcher specializing in Biomedical Signal Processing and AI.
