@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-23'
+  last_updated: '2026-01-28'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 29
@@ -46,11 +46,11 @@ papers:
     title: Biometric Authentication System Based on Electrocardiogram (ECG)
     year: '2019'
   k0pnkggAAAAJ:5qfkUJPXOUwC:
-    citations: 15
+    citations: 16
     title: "Machine learning\u2010based classification of multiple heart disorders from PCG signals"
     year: '2023'
   k0pnkggAAAAJ:6ZxmRoH8BuwC:
-    citations: 13
+    citations: 14
     title: 'XPQRS: Expert power quality recognition system for sensitive load applications'
     year: '2023'
   k0pnkggAAAAJ:7PzlFSSx8tAC:
@@ -94,7 +94,7 @@ papers:
     title: A Novel Embedded System Design for the Detection and Classification of Cardiac Disorders
     year: '2021'
   k0pnkggAAAAJ:DUooU5lO8OsC:
-    citations: 16
+    citations: 17
     title: "Multilevel Pain Assessment with Functional Near-Infrared Spectroscopy: Evaluating \u0394HBO2 and \u0394HHB Measures for Comprehensive Analysis"
     year: '2024'
   k0pnkggAAAAJ:EUQCXRtRnyEC:
@@ -206,7 +206,7 @@ papers:
     title: Detection of Myocardial Infarction using Spectral Textures through ECG
     year: '2023'
   k0pnkggAAAAJ:XvxMoLDsR5gC:
-    citations: 7
+    citations: 8
     title: A Systematic Review of Multimodal Signal Fusion for Acute Pain Assessment Systems
     year: '2025'
   k0pnkggAAAAJ:Y0pCki6q_DkC:
@@ -233,6 +233,10 @@ papers:
     citations: 67
     title: Electricity theft detection using empirical mode decomposition and K-nearest neighbors
     year: '2020'
+  k0pnkggAAAAJ:_5tno0g5mFcC:
+    citations: 0
+    title: "GIAFormer: A Gradient-Infused Attention and Transformer for Pain Assessment with EDA\u2013fNIRS Fusion"
+    year: '2026'
   k0pnkggAAAAJ:_FM0Bhl9EiAC:
     citations: 0
     title: System Design for the Detection of Induction Motor Faults using Multi-Domain Feature Fusion
@@ -250,7 +254,7 @@ papers:
     title: Vibration Signal Analysis Towards Early Detection of Machine Faults
     year: '2020'
   k0pnkggAAAAJ:anf4URPfarAC:
-    citations: 12
+    citations: 13
     title: Bearing faults classification using novel log energy-based empirical mode decomposition and machine Mel-frequency cepstral coefficients
     year: '2025'
   k0pnkggAAAAJ:aqlVkmm33-oC:
@@ -306,7 +310,7 @@ papers:
     title: Electrocardiography based Biometric Verification System
     year: '2020'
   k0pnkggAAAAJ:hFOr9nPyWt4C:
-    citations: 4
+    citations: 5
     title: Electrooculugram based communication system for people with locked-in-syndrome
     year: '2020'
   k0pnkggAAAAJ:hqOjcs7Dif8C:
@@ -318,7 +322,7 @@ papers:
     title: Pattern analysis towards human verification using photoplethysmograph signals
     year: '2020'
   k0pnkggAAAAJ:kRWSkSYxWN8C:
-    citations: 15
+    citations: 16
     title: Music genre classification using support vector machine and empirical mode decomposition
     year: '2021'
   k0pnkggAAAAJ:kh2fBNsKQNwC:
@@ -362,7 +366,7 @@ papers:
     title: Detection of myocardial infarction using pulse plethysmograph signals
     year: '2019'
   k0pnkggAAAAJ:sNmaIFBj_lkC:
-    citations: 9
+    citations: 10
     title: 'Empirically Transformed Energy Patterns: A novel approach for capturing fNIRS signal dynamics in pain assessment'
     year: '2025'
   k0pnkggAAAAJ:sSrBHYA8nusC:
@@ -390,7 +394,7 @@ papers:
     title: Vehicle make and model recognition using deep transfer learning and support vector machines
     year: '2020'
   k0pnkggAAAAJ:umqufdRvDiIC:
-    citations: 0
+    citations: 1
     title: 'Pain intensity estimation via multimodal fusion: Leveraging ternary textures of derivatives in EDA and PPG signals'
     year: '2026'
   k0pnkggAAAAJ:vRqMK49ujn8C:
