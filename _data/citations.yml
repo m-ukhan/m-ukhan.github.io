@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-28'
+  last_updated: '2026-02-02'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 29
@@ -90,7 +90,7 @@ papers:
     title: Computer-aided diagnosis of COVID-19 disease from chest x-ray images integrating deep feature extraction
     year: '2021'
   k0pnkggAAAAJ:B3FOqHPlNUQC:
-    citations: 34
+    citations: 35
     title: A Novel Embedded System Design for the Detection and Classification of Cardiac Disorders
     year: '2021'
   k0pnkggAAAAJ:DUooU5lO8OsC:
@@ -174,7 +174,7 @@ papers:
     title: Surface electromyography based Pakistani sign language interpreter
     year: '2020'
   k0pnkggAAAAJ:Tyk-4Ss8FVUC:
-    citations: 81
+    citations: 82
     title: ECG-based biometric authentication using empirical mode decomposition and support vector machines
     year: '2019'
   k0pnkggAAAAJ:ULOm3_A8WrAC:
@@ -194,7 +194,7 @@ papers:
     title: Support vector machine-based diagnosis of Tuberculosis
     year: '2021'
   k0pnkggAAAAJ:W7OEmFMy1HYC:
-    citations: 25
+    citations: 26
     title: Prediction of acute coronary syndrome using pulse plethysmograph
     year: '2019'
   k0pnkggAAAAJ:Wp0gIr-vW9MC:
@@ -258,7 +258,7 @@ papers:
     title: Bearing faults classification using novel log energy-based empirical mode decomposition and machine Mel-frequency cepstral coefficients
     year: '2025'
   k0pnkggAAAAJ:aqlVkmm33-oC:
-    citations: 141
+    citations: 142
     title: Phonocardiogram signal processing for automatic diagnosis of congenital heart disorders through fusion of temporal and cepstral features
     year: '2020'
   k0pnkggAAAAJ:b0M2c_1WBrUC:
@@ -302,7 +302,7 @@ papers:
     title: Detection of insomnia using electrocardiography and electromyography
     year: '2021'
   k0pnkggAAAAJ:gsN89kCJA0AC:
-    citations: 7
+    citations: 8
     title: Expert system for diagnosis of multiple neuromuscular disorders using emg signals
     year: '2022'
   k0pnkggAAAAJ:hC7cP41nSMkC:
