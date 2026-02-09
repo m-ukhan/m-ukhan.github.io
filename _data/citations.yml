@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-02-09'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 29
@@ -146,7 +146,7 @@ papers:
     title: Cucumber leaf disease classification using local tri-directional patterns and haralick features
     year: '2021'
   k0pnkggAAAAJ:LkGwnXOMwfcC:
-    citations: 52
+    citations: 54
     title: Electromyography (EMG) data-driven load classification using empirical mode decomposition and feature analysis
     year: '2019'
   k0pnkggAAAAJ:M05iB0D1s5AC:
@@ -290,7 +290,7 @@ papers:
     title: Pulse plethysmograph signal analysis method for classification of heart diseases using novel local spectral ternary patterns
     year: '2022'
   k0pnkggAAAAJ:foquWX3nUaYC:
-    citations: 28
+    citations: 29
     title: Intelligent bearing faults diagnosis featuring Automated Relative Energy based Empirical Mode Decomposition and novel Cepstral Autoregressive features
     year: '2023'
   k0pnkggAAAAJ:g5m5HwL7SMYC:
@@ -374,7 +374,7 @@ papers:
     title: Soft computing approach for classification of complex power quality events
     year: '2021'
   k0pnkggAAAAJ:tS2w5q8j5-wC:
-    citations: 69
+    citations: 70
     title: A two-stage classification model integrating feature fusion for coronary artery disease detection and classification
     year: '2022'
   k0pnkggAAAAJ:tYavs44e6CUC:
