@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-09'
+  last_updated: '2026-02-11'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 29
@@ -110,7 +110,7 @@ papers:
     title: Pattern Analysis Framework for Detection of Cardiac Disorders using VCG Signal Analysis
     year: '2024'
   k0pnkggAAAAJ:HE397vMXCloC:
-    citations: 9
+    citations: 10
     title: A survey on AI-based ECG, PPG, and PCG signals based biometric authentication system
     year: '2021'
   k0pnkggAAAAJ:IWHjjKOFINEC:
@@ -146,7 +146,7 @@ papers:
     title: Cucumber leaf disease classification using local tri-directional patterns and haralick features
     year: '2021'
   k0pnkggAAAAJ:LkGwnXOMwfcC:
-    citations: 54
+    citations: 53
     title: Electromyography (EMG) data-driven load classification using empirical mode decomposition and feature analysis
     year: '2019'
   k0pnkggAAAAJ:M05iB0D1s5AC:
@@ -210,7 +210,7 @@ papers:
     title: A Systematic Review of Multimodal Signal Fusion for Acute Pain Assessment Systems
     year: '2025'
   k0pnkggAAAAJ:Y0pCki6q_DkC:
-    citations: 36
+    citations: 37
     title: Image pattem classification for plant disease identification using local tri-directional features
     year: '2019'
   k0pnkggAAAAJ:Y5dfb0dijaUC:
@@ -258,7 +258,7 @@ papers:
     title: Bearing faults classification using novel log energy-based empirical mode decomposition and machine Mel-frequency cepstral coefficients
     year: '2025'
   k0pnkggAAAAJ:aqlVkmm33-oC:
-    citations: 142
+    citations: 143
     title: Phonocardiogram signal processing for automatic diagnosis of congenital heart disorders through fusion of temporal and cepstral features
     year: '2020'
   k0pnkggAAAAJ:b0M2c_1WBrUC:
