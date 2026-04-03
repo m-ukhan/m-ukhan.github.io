@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-27'
+  last_updated: '2026-04-03'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 28
@@ -10,7 +10,7 @@ papers:
     title: Automated Detection and Classification of Gastrointestinal Diseases using surface-EMG Signals
     year: '2019'
   k0pnkggAAAAJ:0izLItjtcgwC:
-    citations: 10
+    citations: 12
     title: 'Diagnosis of Schizophrenia Using EEG Sensor Data: A Novel Approach with Automated Log Energy-Based Empirical Wavelet Reconstruction and Cepstral Features'
     year: '2024'
   k0pnkggAAAAJ:1qzjygNMrQYC:
@@ -25,6 +25,10 @@ papers:
     citations: 9
     title: Marine mammals classification using acoustic binary patterns
     year: '2020'
+  k0pnkggAAAAJ:2VqYfGB8ITEC:
+    citations: 0
+    title: PPG-Based Biometric Authentication via WEMD-Derived Multi-Domain Feature Fusion
+    year: '2026'
   k0pnkggAAAAJ:3fE2CSJIrl8C:
     citations: 44
     title: Classification of coronary artery diseases using electrocardiogram signals
@@ -42,11 +46,11 @@ papers:
     title: Photoplethysmography based detection of social stress
     year: '2021'
   k0pnkggAAAAJ:5nxA0vEk-isC:
-    citations: 33
+    citations: 35
     title: Biometric Authentication System Based on Electrocardiogram (ECG)
     year: '2019'
   k0pnkggAAAAJ:5qfkUJPXOUwC:
-    citations: 17
+    citations: 18
     title: "Machine learning\u2010based classification of multiple heart disorders from PCG signals"
     year: '2023'
   k0pnkggAAAAJ:6ZxmRoH8BuwC:
@@ -98,11 +102,11 @@ papers:
     title: "Multilevel Pain Assessment with Functional Near-Infrared Spectroscopy: Evaluating \u0394HBO2 and \u0394HHB Measures for Comprehensive Analysis"
     year: '2024'
   k0pnkggAAAAJ:EUQCXRtRnyEC:
-    citations: 13
+    citations: 14
     title: Electrohysterogram based term and preterm delivery classification system
     year: '2020'
   k0pnkggAAAAJ:FAceZFleit8C:
-    citations: 0
+    citations: 1
     title: Detection of Ophthalmic Disorders Through Deep Feature Fusion
     year: '2024'
   k0pnkggAAAAJ:GtLg2Ama23sC:
@@ -114,7 +118,7 @@ papers:
     title: A survey on AI-based ECG, PPG, and PCG signals based biometric authentication system
     year: '2021'
   k0pnkggAAAAJ:IWHjjKOFINEC:
-    citations: 13
+    citations: 14
     title: 'Biometric system using PCG signal analysis: a new method of person identification'
     year: '2020'
   k0pnkggAAAAJ:J-pR_7NvFogC:
@@ -134,7 +138,7 @@ papers:
     title: Multi-channel EMG signal analysis for italian sign language interpretation
     year: '2022'
   k0pnkggAAAAJ:L8Ckcad2t8MC:
-    citations: 26
+    citations: 28
     title: Biometric authentication based on EMG signals of speech
     year: '2020'
   k0pnkggAAAAJ:LO7wyVUgiFcC:
@@ -154,7 +158,7 @@ papers:
     title: Pakistani phrasal sign language classification using surface electromyography
     year: '2020'
   k0pnkggAAAAJ:MXK_kJrjxJIC:
-    citations: 60
+    citations: 61
     title: IoT and wireless sensor network based autonomous farming robot
     year: '2020'
   k0pnkggAAAAJ:NXb4pA-qfm4C:
@@ -174,7 +178,7 @@ papers:
     title: Surface electromyography based Pakistani sign language interpreter
     year: '2020'
   k0pnkggAAAAJ:Tyk-4Ss8FVUC:
-    citations: 83
+    citations: 84
     title: ECG-based biometric authentication using empirical mode decomposition and support vector machines
     year: '2019'
   k0pnkggAAAAJ:ULOm3_A8WrAC:
@@ -206,7 +210,7 @@ papers:
     title: Detection of Myocardial Infarction using Spectral Textures through ECG
     year: '2023'
   k0pnkggAAAAJ:XvxMoLDsR5gC:
-    citations: 9
+    citations: 10
     title: A Systematic Review of Multimodal Signal Fusion for Acute Pain Assessment Systems
     year: '2025'
   k0pnkggAAAAJ:Y0pCki6q_DkC:
@@ -226,7 +230,7 @@ papers:
     title: Fall Detection System using a single Accelerometer through Machine Learning
     year: '2023'
   k0pnkggAAAAJ:ZeXyd9-uunAC:
-    citations: 33
+    citations: 34
     title: Spectral analysis of lungs sounds for classification of asthma and pneumonia wheezing
     year: '2020'
   k0pnkggAAAAJ:Zph67rFs4hoC:
@@ -242,11 +246,11 @@ papers:
     title: System Design for the Detection of Induction Motor Faults using Multi-Domain Feature Fusion
     year: '2023'
   k0pnkggAAAAJ:_axFR9aDTf0C:
-    citations: 0
+    citations: 1
     title: 'Biofusion: Expanding Biometric Horizons with ECG and PCG Integration'
     year: '2023'
   k0pnkggAAAAJ:_xSYboBqXhAC:
-    citations: 10
+    citations: 11
     title: Image Pattern Analysis towards Classification of Skin Cancer through Dermoscopic Images
     year: '2020'
   k0pnkggAAAAJ:abG-DnoFyZgC:
@@ -258,7 +262,7 @@ papers:
     title: Bearing faults classification using novel log energy-based empirical mode decomposition and machine Mel-frequency cepstral coefficients
     year: '2025'
   k0pnkggAAAAJ:aqlVkmm33-oC:
-    citations: 146
+    citations: 148
     title: Phonocardiogram signal processing for automatic diagnosis of congenital heart disorders through fusion of temporal and cepstral features
     year: '2020'
   k0pnkggAAAAJ:b0M2c_1WBrUC:
@@ -302,7 +306,7 @@ papers:
     title: Detection of Insomnia using Electrocardiography and Electromyography.
     year: '2021'
   k0pnkggAAAAJ:gsN89kCJA0AC:
-    citations: 8
+    citations: 9
     title: Expert system for diagnosis of multiple neuromuscular disorders using emg signals
     year: '2022'
   k0pnkggAAAAJ:hC7cP41nSMkC:
@@ -318,7 +322,7 @@ papers:
     title: An automated system towards diagnosis of pneumonia using pulmonary auscultations
     year: '2019'
   k0pnkggAAAAJ:kNdYIx-mwKoC:
-    citations: 20
+    citations: 21
     title: Pattern analysis towards human verification using photoplethysmograph signals
     year: '2020'
   k0pnkggAAAAJ:kRWSkSYxWN8C:
@@ -338,7 +342,7 @@ papers:
     title: ECG Signal Analysis for Classification of Congenital Heart Defects
     year: '2020'
   k0pnkggAAAAJ:mVmsd5A6BfQC:
-    citations: 1
+    citations: 2
     title: Electrocardiography based System for Characterization of Diabetes
     year: '2020'
   k0pnkggAAAAJ:nb7KW1ujOQ8C:
@@ -346,11 +350,11 @@ papers:
     title: Expert hypertension detection system featuring pulse plethysmograph signals and hybrid feature selection and reduction scheme
     year: '2021'
   k0pnkggAAAAJ:olpn-zPbct0C:
-    citations: 53
+    citations: 54
     title: Phonocardiogram signal analysis for classification of Coronary Artery Diseases using MFCC and 1D adaptive local ternary patterns
     year: '2021'
   k0pnkggAAAAJ:q3CdL3IzO_QC:
-    citations: 29
+    citations: 30
     title: Experimental Exploration of Multilevel Human Pain Assessment Using Blood Volume Pulse (BVP) Signals
     year: '2023'
   k0pnkggAAAAJ:qUcmZB5y_30C:
@@ -366,7 +370,7 @@ papers:
     title: Detection of myocardial infarction using pulse plethysmograph signals
     year: '2019'
   k0pnkggAAAAJ:sNmaIFBj_lkC:
-    citations: 10
+    citations: 11
     title: 'Empirically Transformed Energy Patterns: A novel approach for capturing fNIRS signal dynamics in pain assessment'
     year: '2025'
   k0pnkggAAAAJ:sSrBHYA8nusC:
@@ -374,7 +378,7 @@ papers:
     title: Soft computing approach for classification of complex power quality events
     year: '2021'
   k0pnkggAAAAJ:tS2w5q8j5-wC:
-    citations: 71
+    citations: 72
     title: A two-stage classification model integrating feature fusion for coronary artery disease detection and classification
     year: '2022'
   k0pnkggAAAAJ:tYavs44e6CUC:
@@ -402,7 +406,7 @@ papers:
     title: A novel pulse plethysmograph signal analysis method for identification of myocardial infarction, dilated cardiomyopathy, and hypertension
     year: '2021'
   k0pnkggAAAAJ:vbGhcppDl1QC:
-    citations: 12
+    citations: 13
     title: DarkNet-19 Based Intelligent Diagnostic System for Ocular Diseases
     year: '2022'
   k0pnkggAAAAJ:wbdj-CoPYUoC:
