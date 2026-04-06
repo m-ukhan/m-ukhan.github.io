@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-03'
+  last_updated: '2026-04-06'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 28
@@ -150,7 +150,7 @@ papers:
     title: Cucumber leaf disease classification using local tri-directional patterns and haralick features
     year: '2021'
   k0pnkggAAAAJ:LkGwnXOMwfcC:
-    citations: 54
+    citations: 55
     title: Electromyography (EMG) data-driven load classification using empirical mode decomposition and feature analysis
     year: '2019'
   k0pnkggAAAAJ:M05iB0D1s5AC:
