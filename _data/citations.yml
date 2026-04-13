@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-13'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 28
@@ -386,7 +386,7 @@ papers:
     title: Diagnosis of Diabetes Mellitus using Pulse Plethysmograph
     year: '2022'
   k0pnkggAAAAJ:u-x6o8ySG0sC:
-    citations: 63
+    citations: 64
     title: Automatic scene recognition through acoustic classification for behavioral robotics
     year: '2019'
   k0pnkggAAAAJ:u5HHmVD_uO8C:
@@ -394,7 +394,7 @@ papers:
     title: Embedded System Design for Visual Scene Classification
     year: '2018'
   k0pnkggAAAAJ:uWQEDVKXjbEC:
-    citations: 23
+    citations: 24
     title: Vehicle make and model recognition using deep transfer learning and support vector machines
     year: '2020'
   k0pnkggAAAAJ:umqufdRvDiIC:
