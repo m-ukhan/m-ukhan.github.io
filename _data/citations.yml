@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-15'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 28
@@ -234,7 +234,7 @@ papers:
     title: Spectral analysis of lungs sounds for classification of asthma and pneumonia wheezing
     year: '2020'
   k0pnkggAAAAJ:Zph67rFs4hoC:
-    citations: 67
+    citations: 68
     title: Electricity theft detection using empirical mode decomposition and K-nearest neighbors
     year: '2020'
   k0pnkggAAAAJ:_5tno0g5mFcC:
@@ -262,7 +262,7 @@ papers:
     title: Bearing faults classification using novel log energy-based empirical mode decomposition and machine Mel-frequency cepstral coefficients
     year: '2025'
   k0pnkggAAAAJ:aqlVkmm33-oC:
-    citations: 148
+    citations: 149
     title: Phonocardiogram signal processing for automatic diagnosis of congenital heart disorders through fusion of temporal and cepstral features
     year: '2020'
   k0pnkggAAAAJ:b0M2c_1WBrUC:
