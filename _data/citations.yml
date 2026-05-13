@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-08'
+  last_updated: '2026-05-13'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 28
@@ -10,7 +10,7 @@ papers:
     title: Automated Detection and Classification of Gastrointestinal Diseases using surface-EMG Signals
     year: '2019'
   k0pnkggAAAAJ:0izLItjtcgwC:
-    citations: 15
+    citations: 16
     title: 'Diagnosis of Schizophrenia Using EEG Sensor Data: A Novel Approach with Automated Log Energy-Based Empirical Wavelet Reconstruction and Cepstral Features'
     year: '2024'
   k0pnkggAAAAJ:1qzjygNMrQYC:
@@ -50,7 +50,7 @@ papers:
     title: Biometric Authentication System Based on Electrocardiogram (ECG)
     year: '2019'
   k0pnkggAAAAJ:5qfkUJPXOUwC:
-    citations: 18
+    citations: 19
     title: "Machine learning\u2010based classification of multiple heart disorders from PCG signals"
     year: '2023'
   k0pnkggAAAAJ:6ZxmRoH8BuwC:
@@ -98,7 +98,7 @@ papers:
     title: A Novel Embedded System Design for the Detection and Classification of Cardiac Disorders
     year: '2021'
   k0pnkggAAAAJ:DUooU5lO8OsC:
-    citations: 18
+    citations: 19
     title: "Multilevel Pain Assessment with Functional Near-Infrared Spectroscopy: Evaluating \u0394HBO2 and \u0394HHB Measures for Comprehensive Analysis"
     year: '2024'
   k0pnkggAAAAJ:EUQCXRtRnyEC:
@@ -230,7 +230,7 @@ papers:
     title: Fall Detection System using a single Accelerometer through Machine Learning
     year: '2023'
   k0pnkggAAAAJ:ZeXyd9-uunAC:
-    citations: 34
+    citations: 35
     title: Spectral analysis of lungs sounds for classification of asthma and pneumonia wheezing
     year: '2020'
   k0pnkggAAAAJ:Zph67rFs4hoC:
@@ -238,7 +238,7 @@ papers:
     title: Electricity theft detection using empirical mode decomposition and K-nearest neighbors
     year: '2020'
   k0pnkggAAAAJ:_5tno0g5mFcC:
-    citations: 1
+    citations: 3
     title: "GIAFormer: A Gradient-Infused Attention and Transformer for Pain Assessment with EDA\u2013fNIRS Fusion"
     year: '2026'
   k0pnkggAAAAJ:_FM0Bhl9EiAC:
@@ -254,7 +254,7 @@ papers:
     title: Image Pattern Analysis towards Classification of Skin Cancer through Dermoscopic Images
     year: '2020'
   k0pnkggAAAAJ:abG-DnoFyZgC:
-    citations: 8
+    citations: 9
     title: Vibration Signal Analysis Towards Early Detection of Machine Faults
     year: '2020'
   k0pnkggAAAAJ:anf4URPfarAC:
@@ -342,11 +342,11 @@ papers:
     title: ECG Signal Analysis for Classification of Congenital Heart Defects
     year: '2020'
   k0pnkggAAAAJ:mVmsd5A6BfQC:
-    citations: 3
+    citations: 4
     title: Electrocardiography based System for Characterization of Diabetes
     year: '2020'
   k0pnkggAAAAJ:nb7KW1ujOQ8C:
-    citations: 48
+    citations: 49
     title: Expert hypertension detection system featuring pulse plethysmograph signals and hybrid feature selection and reduction scheme
     year: '2021'
   k0pnkggAAAAJ:olpn-zPbct0C:
@@ -370,7 +370,7 @@ papers:
     title: Detection of myocardial infarction using pulse plethysmograph signals
     year: '2019'
   k0pnkggAAAAJ:sNmaIFBj_lkC:
-    citations: 12
+    citations: 13
     title: 'Empirically Transformed Energy Patterns: A novel approach for capturing fNIRS signal dynamics in pain assessment'
     year: '2025'
   k0pnkggAAAAJ:sSrBHYA8nusC:
