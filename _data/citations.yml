@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-13'
+  last_updated: '2026-05-15'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 28
@@ -158,7 +158,7 @@ papers:
     title: Pakistani phrasal sign language classification using surface electromyography
     year: '2020'
   k0pnkggAAAAJ:MXK_kJrjxJIC:
-    citations: 61
+    citations: 62
     title: IoT and wireless sensor network based autonomous farming robot
     year: '2020'
   k0pnkggAAAAJ:NXb4pA-qfm4C:
@@ -210,7 +210,7 @@ papers:
     title: Detection of Myocardial Infarction using Spectral Textures through ECG
     year: '2023'
   k0pnkggAAAAJ:XvxMoLDsR5gC:
-    citations: 10
+    citations: 11
     title: A Systematic Review of Multimodal Signal Fusion for Acute Pain Assessment Systems
     year: '2025'
   k0pnkggAAAAJ:Y0pCki6q_DkC:
@@ -238,7 +238,7 @@ papers:
     title: Electricity theft detection using empirical mode decomposition and K-nearest neighbors
     year: '2020'
   k0pnkggAAAAJ:_5tno0g5mFcC:
-    citations: 3
+    citations: 4
     title: "GIAFormer: A Gradient-Infused Attention and Transformer for Pain Assessment with EDA\u2013fNIRS Fusion"
     year: '2026'
   k0pnkggAAAAJ:_FM0Bhl9EiAC:
@@ -262,7 +262,7 @@ papers:
     title: Bearing faults classification using novel log energy-based empirical mode decomposition and machine Mel-frequency cepstral coefficients
     year: '2025'
   k0pnkggAAAAJ:aqlVkmm33-oC:
-    citations: 151
+    citations: 152
     title: Phonocardiogram signal processing for automatic diagnosis of congenital heart disorders through fusion of temporal and cepstral features
     year: '2020'
   k0pnkggAAAAJ:b0M2c_1WBrUC:
@@ -398,7 +398,7 @@ papers:
     title: Vehicle make and model recognition using deep transfer learning and support vector machines
     year: '2020'
   k0pnkggAAAAJ:umqufdRvDiIC:
-    citations: 2
+    citations: 3
     title: 'Pain intensity estimation via multimodal fusion: Leveraging ternary textures of derivatives in EDA and PPG signals'
     year: '2026'
   k0pnkggAAAAJ:vRqMK49ujn8C:
