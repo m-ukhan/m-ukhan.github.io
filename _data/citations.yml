@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-05-22'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 28
@@ -46,11 +46,11 @@ papers:
     title: Photoplethysmography based detection of social stress
     year: '2021'
   k0pnkggAAAAJ:5nxA0vEk-isC:
-    citations: 35
+    citations: 36
     title: Biometric Authentication System Based on Electrocardiogram (ECG)
     year: '2019'
   k0pnkggAAAAJ:5qfkUJPXOUwC:
-    citations: 19
+    citations: 20
     title: "Machine learning\u2010based classification of multiple heart disorders from PCG signals"
     year: '2023'
   k0pnkggAAAAJ:6ZxmRoH8BuwC:
@@ -118,7 +118,7 @@ papers:
     title: A survey on AI-based ECG, PPG, and PCG signals based biometric authentication system
     year: '2021'
   k0pnkggAAAAJ:IWHjjKOFINEC:
-    citations: 14
+    citations: 15
     title: 'Biometric system using PCG signal analysis: a new method of person identification'
     year: '2020'
   k0pnkggAAAAJ:J-pR_7NvFogC:
@@ -178,7 +178,7 @@ papers:
     title: Surface electromyography based Pakistani sign language interpreter
     year: '2020'
   k0pnkggAAAAJ:Tyk-4Ss8FVUC:
-    citations: 84
+    citations: 86
     title: ECG-based biometric authentication using empirical mode decomposition and support vector machines
     year: '2019'
   k0pnkggAAAAJ:ULOm3_A8WrAC:
@@ -210,7 +210,7 @@ papers:
     title: Detection of Myocardial Infarction using Spectral Textures through ECG
     year: '2023'
   k0pnkggAAAAJ:XvxMoLDsR5gC:
-    citations: 11
+    citations: 12
     title: A Systematic Review of Multimodal Signal Fusion for Acute Pain Assessment Systems
     year: '2025'
   k0pnkggAAAAJ:Y0pCki6q_DkC:
@@ -234,7 +234,7 @@ papers:
     title: Spectral analysis of lungs sounds for classification of asthma and pneumonia wheezing
     year: '2020'
   k0pnkggAAAAJ:Zph67rFs4hoC:
-    citations: 69
+    citations: 70
     title: Electricity theft detection using empirical mode decomposition and K-nearest neighbors
     year: '2020'
   k0pnkggAAAAJ:_5tno0g5mFcC:
@@ -258,11 +258,11 @@ papers:
     title: Vibration Signal Analysis Towards Early Detection of Machine Faults
     year: '2020'
   k0pnkggAAAAJ:anf4URPfarAC:
-    citations: 15
+    citations: 16
     title: Bearing faults classification using novel log energy-based empirical mode decomposition and machine Mel-frequency cepstral coefficients
     year: '2025'
   k0pnkggAAAAJ:aqlVkmm33-oC:
-    citations: 152
+    citations: 154
     title: Phonocardiogram signal processing for automatic diagnosis of congenital heart disorders through fusion of temporal and cepstral features
     year: '2020'
   k0pnkggAAAAJ:b0M2c_1WBrUC:
@@ -350,7 +350,7 @@ papers:
     title: Expert hypertension detection system featuring pulse plethysmograph signals and hybrid feature selection and reduction scheme
     year: '2021'
   k0pnkggAAAAJ:olpn-zPbct0C:
-    citations: 55
+    citations: 56
     title: Phonocardiogram signal analysis for classification of Coronary Artery Diseases using MFCC and 1D adaptive local ternary patterns
     year: '2021'
   k0pnkggAAAAJ:q3CdL3IzO_QC:
