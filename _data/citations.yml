@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-22'
+  last_updated: '2026-06-10'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
-    citations: 28
+    citations: 30
     title: Deep learning-based automatic morphological classification of leukocytes using blood smears
     year: '2020'
   k0pnkggAAAAJ:0EnyYjriUFMC:
@@ -10,7 +10,7 @@ papers:
     title: Automated Detection and Classification of Gastrointestinal Diseases using surface-EMG Signals
     year: '2019'
   k0pnkggAAAAJ:0izLItjtcgwC:
-    citations: 16
+    citations: 17
     title: 'Diagnosis of Schizophrenia Using EEG Sensor Data: A Novel Approach with Automated Log Energy-Based Empirical Wavelet Reconstruction and Cepstral Features'
     year: '2024'
   k0pnkggAAAAJ:1qzjygNMrQYC:
@@ -54,7 +54,7 @@ papers:
     title: "Machine learning\u2010based classification of multiple heart disorders from PCG signals"
     year: '2023'
   k0pnkggAAAAJ:6ZxmRoH8BuwC:
-    citations: 16
+    citations: 18
     title: 'XPQRS: Expert power quality recognition system for sensitive load applications'
     year: '2023'
   k0pnkggAAAAJ:7PzlFSSx8tAC:
@@ -86,7 +86,7 @@ papers:
     title: MobileNet-based Prediction of Preterm Births
     year: '2023'
   k0pnkggAAAAJ:9yKSN-GCB0IC:
-    citations: 30
+    citations: 31
     title: System Design for Early Fault Diagnosis of Machines using Vibration Features
     year: '2019'
   k0pnkggAAAAJ:AXPGKjj_ei8C:
@@ -94,7 +94,7 @@ papers:
     title: Computer-aided diagnosis of COVID-19 disease from chest x-ray images integrating deep feature extraction
     year: '2021'
   k0pnkggAAAAJ:B3FOqHPlNUQC:
-    citations: 36
+    citations: 37
     title: A Novel Embedded System Design for the Detection and Classification of Cardiac Disorders
     year: '2021'
   k0pnkggAAAAJ:DUooU5lO8OsC:
@@ -202,7 +202,7 @@ papers:
     title: Prediction of acute coronary syndrome using pulse plethysmograph
     year: '2019'
   k0pnkggAAAAJ:Wp0gIr-vW9MC:
-    citations: 3
+    citations: 4
     title: Wearable scene classification system for visually impaired individuals
     year: '2020'
   k0pnkggAAAAJ:XoXfffV-tXoC:
@@ -214,7 +214,7 @@ papers:
     title: A Systematic Review of Multimodal Signal Fusion for Acute Pain Assessment Systems
     year: '2025'
   k0pnkggAAAAJ:Y0pCki6q_DkC:
-    citations: 37
+    citations: 38
     title: Image pattem classification for plant disease identification using local tri-directional features
     year: '2019'
   k0pnkggAAAAJ:Y5dfb0dijaUC:
@@ -230,7 +230,7 @@ papers:
     title: Fall Detection System using a single Accelerometer through Machine Learning
     year: '2023'
   k0pnkggAAAAJ:ZeXyd9-uunAC:
-    citations: 35
+    citations: 36
     title: Spectral analysis of lungs sounds for classification of asthma and pneumonia wheezing
     year: '2020'
   k0pnkggAAAAJ:Zph67rFs4hoC:
@@ -258,11 +258,11 @@ papers:
     title: Vibration Signal Analysis Towards Early Detection of Machine Faults
     year: '2020'
   k0pnkggAAAAJ:anf4URPfarAC:
-    citations: 16
+    citations: 17
     title: Bearing faults classification using novel log energy-based empirical mode decomposition and machine Mel-frequency cepstral coefficients
     year: '2025'
   k0pnkggAAAAJ:aqlVkmm33-oC:
-    citations: 154
+    citations: 155
     title: Phonocardiogram signal processing for automatic diagnosis of congenital heart disorders through fusion of temporal and cepstral features
     year: '2020'
   k0pnkggAAAAJ:b0M2c_1WBrUC:
@@ -326,7 +326,7 @@ papers:
     title: Pattern analysis towards human verification using photoplethysmograph signals
     year: '2020'
   k0pnkggAAAAJ:kRWSkSYxWN8C:
-    citations: 18
+    citations: 19
     title: Music genre classification using support vector machine and empirical mode decomposition
     year: '2021'
   k0pnkggAAAAJ:kh2fBNsKQNwC:
@@ -342,7 +342,7 @@ papers:
     title: ECG Signal Analysis for Classification of Congenital Heart Defects
     year: '2020'
   k0pnkggAAAAJ:mVmsd5A6BfQC:
-    citations: 4
+    citations: 5
     title: Electrocardiography based System for Characterization of Diabetes
     year: '2020'
   k0pnkggAAAAJ:nb7KW1ujOQ8C:
@@ -354,11 +354,11 @@ papers:
     title: Phonocardiogram signal analysis for classification of Coronary Artery Diseases using MFCC and 1D adaptive local ternary patterns
     year: '2021'
   k0pnkggAAAAJ:q3CdL3IzO_QC:
-    citations: 31
+    citations: 32
     title: Experimental Exploration of Multilevel Human Pain Assessment Using Blood Volume Pulse (BVP) Signals
     year: '2023'
   k0pnkggAAAAJ:qUcmZB5y_30C:
-    citations: 11
+    citations: 12
     title: Electrocardiogram based gender classification
     year: '2020'
   k0pnkggAAAAJ:rmuvC79q63oC:
@@ -370,7 +370,7 @@ papers:
     title: Detection of myocardial infarction using pulse plethysmograph signals
     year: '2019'
   k0pnkggAAAAJ:sNmaIFBj_lkC:
-    citations: 13
+    citations: 14
     title: 'Empirically Transformed Energy Patterns: A novel approach for capturing fNIRS signal dynamics in pain assessment'
     year: '2025'
   k0pnkggAAAAJ:sSrBHYA8nusC:
@@ -378,7 +378,7 @@ papers:
     title: Soft computing approach for classification of complex power quality events
     year: '2021'
   k0pnkggAAAAJ:tS2w5q8j5-wC:
-    citations: 72
+    citations: 73
     title: A two-stage classification model integrating feature fusion for coronary artery disease detection and classification
     year: '2022'
   k0pnkggAAAAJ:tYavs44e6CUC:
