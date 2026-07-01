@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-17'
+  last_updated: '2026-07-01'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 30
@@ -90,15 +90,15 @@ papers:
     title: System Design for Early Fault Diagnosis of Machines using Vibration Features
     year: '2019'
   k0pnkggAAAAJ:AXPGKjj_ei8C:
-    citations: 20
+    citations: 21
     title: Computer-aided diagnosis of COVID-19 disease from chest x-ray images integrating deep feature extraction
     year: '2021'
   k0pnkggAAAAJ:B3FOqHPlNUQC:
-    citations: 37
+    citations: 38
     title: A Novel Embedded System Design for the Detection and Classification of Cardiac Disorders
     year: '2021'
   k0pnkggAAAAJ:DUooU5lO8OsC:
-    citations: 19
+    citations: 20
     title: "Multilevel Pain Assessment with Functional Near-Infrared Spectroscopy: Evaluating \u0394HBO2 and \u0394HHB Measures for Comprehensive Analysis"
     year: '2024'
   k0pnkggAAAAJ:EUQCXRtRnyEC:
@@ -134,7 +134,7 @@ papers:
     title: Pattern analysis for classification of power quality disturbances
     year: '2020'
   k0pnkggAAAAJ:L7CI7m0gUJcC:
-    citations: 7
+    citations: 8
     title: Multi-channel EMG signal analysis for italian sign language interpretation
     year: '2022'
   k0pnkggAAAAJ:L8Ckcad2t8MC:
@@ -194,7 +194,7 @@ papers:
     title: Intelligent System for the Diagnosis of Schizophrenia featuring Brain Textures from EEG
     year: '2023'
   k0pnkggAAAAJ:V3AGJWp-ZtQC:
-    citations: 2
+    citations: 3
     title: Support vector machine-based diagnosis of Tuberculosis
     year: '2021'
   k0pnkggAAAAJ:W7OEmFMy1HYC:
@@ -206,11 +206,11 @@ papers:
     title: Wearable scene classification system for visually impaired individuals
     year: '2020'
   k0pnkggAAAAJ:XoXfffV-tXoC:
-    citations: 4
+    citations: 5
     title: Detection of Myocardial Infarction using Spectral Textures through ECG
     year: '2023'
   k0pnkggAAAAJ:XvxMoLDsR5gC:
-    citations: 13
+    citations: 14
     title: A Systematic Review of Multimodal Signal Fusion for Acute Pain Assessment Systems
     year: '2025'
   k0pnkggAAAAJ:Y0pCki6q_DkC:
@@ -234,7 +234,7 @@ papers:
     title: Spectral analysis of lungs sounds for classification of asthma and pneumonia wheezing
     year: '2020'
   k0pnkggAAAAJ:Zph67rFs4hoC:
-    citations: 69
+    citations: 70
     title: Electricity theft detection using empirical mode decomposition and K-nearest neighbors
     year: '2020'
   k0pnkggAAAAJ:_5tno0g5mFcC:
@@ -386,7 +386,7 @@ papers:
     title: Diagnosis of Diabetes Mellitus using Pulse Plethysmograph
     year: '2022'
   k0pnkggAAAAJ:u-x6o8ySG0sC:
-    citations: 64
+    citations: 65
     title: Automatic scene recognition through acoustic classification for behavioral robotics
     year: '2019'
   k0pnkggAAAAJ:u5HHmVD_uO8C:
@@ -406,7 +406,7 @@ papers:
     title: A novel pulse plethysmograph signal analysis method for identification of myocardial infarction, dilated cardiomyopathy, and hypertension
     year: '2021'
   k0pnkggAAAAJ:vbGhcppDl1QC:
-    citations: 13
+    citations: 14
     title: DarkNet-19 Based Intelligent Diagnostic System for Ocular Diseases
     year: '2022'
   k0pnkggAAAAJ:wbdj-CoPYUoC:
