@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-20'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
-    citations: 31
+    citations: 32
     title: Deep learning-based automatic morphological classification of leukocytes using blood smears
     year: '2020'
   k0pnkggAAAAJ:0EnyYjriUFMC:
@@ -10,7 +10,7 @@ papers:
     title: Automated Detection and Classification of Gastrointestinal Diseases using surface-EMG Signals
     year: '2019'
   k0pnkggAAAAJ:0izLItjtcgwC:
-    citations: 17
+    citations: 18
     title: 'Diagnosis of Schizophrenia Using EEG Sensor Data: A Novel Approach with Automated Log Energy-Based Empirical Wavelet Reconstruction and Cepstral Features'
     year: '2024'
   k0pnkggAAAAJ:1qzjygNMrQYC:
@@ -54,7 +54,7 @@ papers:
     title: "Machine learning\u2010based classification of multiple heart disorders from PCG signals"
     year: '2023'
   k0pnkggAAAAJ:6ZxmRoH8BuwC:
-    citations: 20
+    citations: 21
     title: 'XPQRS: Expert power quality recognition system for sensitive load applications'
     year: '2023'
   k0pnkggAAAAJ:7PzlFSSx8tAC:
@@ -70,7 +70,7 @@ papers:
     title: Automatic Classification of Modulation Schemes under Blind Scenario
     year: '2021'
   k0pnkggAAAAJ:8d8msizDQcsC:
-    citations: 0
+    citations: 1
     title: Aerial Vehicle Detection and Classification Through Fusion of Multi-Domain Features of Acoustic Signals
     year: '2024'
   k0pnkggAAAAJ:8k81kl-MbHgC:
@@ -98,7 +98,7 @@ papers:
     title: A Novel Embedded System Design for the Detection and Classification of Cardiac Disorders
     year: '2021'
   k0pnkggAAAAJ:DUooU5lO8OsC:
-    citations: 21
+    citations: 22
     title: "Multilevel Pain Assessment with Functional Near-Infrared Spectroscopy: Evaluating \u0394HBO2 and \u0394HHB Measures for Comprehensive Analysis"
     year: '2024'
   k0pnkggAAAAJ:EUQCXRtRnyEC:
@@ -182,7 +182,7 @@ papers:
     title: Surface electromyography based Pakistani sign language interpreter
     year: '2020'
   k0pnkggAAAAJ:Tyk-4Ss8FVUC:
-    citations: 86
+    citations: 87
     title: ECG-based biometric authentication using empirical mode decomposition and support vector machines
     year: '2019'
   k0pnkggAAAAJ:ULOm3_A8WrAC:
@@ -218,7 +218,7 @@ papers:
     title: Detection of Myocardial Infarction using Spectral Textures through ECG
     year: '2023'
   k0pnkggAAAAJ:XvxMoLDsR5gC:
-    citations: 15
+    citations: 16
     title: A Systematic Review of Multimodal Signal Fusion for Acute Pain Assessment Systems
     year: '2025'
   k0pnkggAAAAJ:Y0pCki6q_DkC:
@@ -302,7 +302,7 @@ papers:
     title: Pulse plethysmograph signal analysis method for classification of heart diseases using novel local spectral ternary patterns
     year: '2022'
   k0pnkggAAAAJ:foquWX3nUaYC:
-    citations: 30
+    citations: 31
     title: Intelligent bearing faults diagnosis featuring Automated Relative Energy based Empirical Mode Decomposition and novel Cepstral Autoregressive features
     year: '2023'
   k0pnkggAAAAJ:g5m5HwL7SMYC:
@@ -353,6 +353,10 @@ papers:
     citations: 5
     title: Electrocardiography based System for Characterization of Diabetes
     year: '2020'
+  k0pnkggAAAAJ:mlAyqtXpCwEC:
+    citations: 0
+    title: 'DeriModNet: A Derivative-Aware Modulation Network for fNIRS-Based Pain Assessment'
+    year: '2025'
   k0pnkggAAAAJ:nb7KW1ujOQ8C:
     citations: 49
     title: Expert hypertension detection system featuring pulse plethysmograph signals and hybrid feature selection and reduction scheme
@@ -378,7 +382,7 @@ papers:
     title: Detection of myocardial infarction using pulse plethysmograph signals
     year: '2019'
   k0pnkggAAAAJ:sNmaIFBj_lkC:
-    citations: 14
+    citations: 15
     title: 'Empirically Transformed Energy Patterns: A novel approach for capturing fNIRS signal dynamics in pain assessment'
     year: '2025'
   k0pnkggAAAAJ:sSrBHYA8nusC:
