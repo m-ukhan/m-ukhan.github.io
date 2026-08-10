@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-10'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 32
@@ -22,7 +22,7 @@ papers:
     title: DarkNet-19 based Decision Algorithm for the Diagnosis of Ophthalmic Disorders
     year: '2021'
   k0pnkggAAAAJ:2P1L_qKh6hAC:
-    citations: 11
+    citations: 10
     title: Marine mammals classification using acoustic binary patterns
     year: '2020'
   k0pnkggAAAAJ:2VqYfGB8ITEC:
@@ -230,7 +230,7 @@ papers:
     title: Detection of Myocardial Infarction using Spectral Textures through ECG
     year: '2023'
   k0pnkggAAAAJ:XvxMoLDsR5gC:
-    citations: 21
+    citations: 22
     title: A Systematic Review of Multimodal Signal Fusion for Acute Pain Assessment Systems
     year: '2025'
   k0pnkggAAAAJ:Y0pCki6q_DkC:
@@ -282,7 +282,7 @@ papers:
     title: Bearing faults classification using novel log energy-based empirical mode decomposition and machine Mel-frequency cepstral coefficients
     year: '2025'
   k0pnkggAAAAJ:aqlVkmm33-oC:
-    citations: 154
+    citations: 155
     title: Phonocardiogram signal processing for automatic diagnosis of congenital heart disorders through fusion of temporal and cepstral features
     year: '2020'
   k0pnkggAAAAJ:b0M2c_1WBrUC:
@@ -314,7 +314,7 @@ papers:
     title: Pulse plethysmograph signal analysis method for classification of heart diseases using novel local spectral ternary patterns
     year: '2022'
   k0pnkggAAAAJ:foquWX3nUaYC:
-    citations: 32
+    citations: 33
     title: Intelligent bearing faults diagnosis featuring Automated Relative Energy based Empirical Mode Decomposition and novel Cepstral Autoregressive features
     year: '2023'
   k0pnkggAAAAJ:g5m5HwL7SMYC:
@@ -370,7 +370,7 @@ papers:
     title: 'DeriModNet: A Derivative-Aware Modulation Network for fNIRS-Based Pain Assessment'
     year: '2025'
   k0pnkggAAAAJ:nb7KW1ujOQ8C:
-    citations: 48
+    citations: 49
     title: Expert hypertension detection system featuring pulse plethysmograph signals and hybrid feature selection and reduction scheme
     year: '2021'
   k0pnkggAAAAJ:olpn-zPbct0C:
@@ -402,7 +402,7 @@ papers:
     title: Soft computing approach for classification of complex power quality events
     year: '2021'
   k0pnkggAAAAJ:tS2w5q8j5-wC:
-    citations: 74
+    citations: 75
     title: A two-stage classification model integrating feature fusion for coronary artery disease detection and classification
     year: '2022'
   k0pnkggAAAAJ:tYavs44e6CUC:
@@ -410,7 +410,7 @@ papers:
     title: Diagnosis of Diabetes Mellitus using Pulse Plethysmograph
     year: '2022'
   k0pnkggAAAAJ:u-x6o8ySG0sC:
-    citations: 65
+    citations: 66
     title: Automatic scene recognition through acoustic classification for behavioral robotics
     year: '2019'
   k0pnkggAAAAJ:u5HHmVD_uO8C:
