@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-19'
 papers:
   k0pnkggAAAAJ:-f6ydRqryjwC:
     citations: 32
@@ -82,7 +82,7 @@ papers:
     title: Effect of Al-Quran recitation on human physiology
     year: '2020'
   k0pnkggAAAAJ:9c2xU6iGI7YC:
-    citations: 4
+    citations: 5
     title: A Unified Tokenization Framework for Pain Recognition using Heterogeneous 3D Modalities
     year: '2026'
   k0pnkggAAAAJ:9pM33mqn1YgC:
@@ -126,7 +126,7 @@ papers:
     title: 'eCoTran: Pain Detection from fNIRS Signals Using an Efficient Convolutional Transformer for Embedded Systems'
     year: '2025'
   k0pnkggAAAAJ:IUKN3-7HHlwC:
-    citations: 4
+    citations: 6
     title: 'ReFace: Reorganizing Facial Spatiotemporal Representations for Improved Pain Assessment'
     year: '2026'
   k0pnkggAAAAJ:IWHjjKOFINEC:
@@ -182,7 +182,7 @@ papers:
     title: A signal analysis approach towards detection and classification of power quality disturbances
     year: '2020'
   k0pnkggAAAAJ:OTTXONDVkokC:
-    citations: 5
+    citations: 6
     title: A lightweight transformer for pain recognition from brain activity
     year: '2026'
   k0pnkggAAAAJ:OU6Ihb5iCvQC:
@@ -230,7 +230,7 @@ papers:
     title: Detection of Myocardial Infarction using Spectral Textures through ECG
     year: '2023'
   k0pnkggAAAAJ:XvxMoLDsR5gC:
-    citations: 22
+    citations: 23
     title: A Systematic Review of Multimodal Signal Fusion for Acute Pain Assessment Systems
     year: '2025'
   k0pnkggAAAAJ:Y0pCki6q_DkC:
@@ -270,11 +270,11 @@ papers:
     title: 'Biofusion: Expanding Biometric Horizons with ECG and PCG Integration'
     year: '2023'
   k0pnkggAAAAJ:_xSYboBqXhAC:
-    citations: 11
+    citations: 12
     title: Image Pattern Analysis towards Classification of Skin Cancer through Dermoscopic Images
     year: '2020'
   k0pnkggAAAAJ:abG-DnoFyZgC:
-    citations: 9
+    citations: 10
     title: Vibration Signal Analysis Towards Early Detection of Machine Faults
     year: '2020'
   k0pnkggAAAAJ:anf4URPfarAC:
@@ -314,7 +314,7 @@ papers:
     title: Pulse plethysmograph signal analysis method for classification of heart diseases using novel local spectral ternary patterns
     year: '2022'
   k0pnkggAAAAJ:foquWX3nUaYC:
-    citations: 33
+    citations: 34
     title: Intelligent bearing faults diagnosis featuring Automated Relative Energy based Empirical Mode Decomposition and novel Cepstral Autoregressive features
     year: '2023'
   k0pnkggAAAAJ:g5m5HwL7SMYC:
@@ -334,7 +334,7 @@ papers:
     title: Electrocardiography based Biometric Verification System
     year: '2020'
   k0pnkggAAAAJ:hFOr9nPyWt4C:
-    citations: 6
+    citations: 7
     title: Electrooculugram based communication system for people with locked-in-syndrome
     year: '2020'
   k0pnkggAAAAJ:hqOjcs7Dif8C:
@@ -370,7 +370,7 @@ papers:
     title: 'DeriModNet: A Derivative-Aware Modulation Network for fNIRS-Based Pain Assessment'
     year: '2025'
   k0pnkggAAAAJ:nb7KW1ujOQ8C:
-    citations: 50
+    citations: 51
     title: Expert hypertension detection system featuring pulse plethysmograph signals and hybrid feature selection and reduction scheme
     year: '2021'
   k0pnkggAAAAJ:olpn-zPbct0C:
@@ -422,7 +422,7 @@ papers:
     title: Vehicle make and model recognition using deep transfer learning and support vector machines
     year: '2020'
   k0pnkggAAAAJ:umqufdRvDiIC:
-    citations: 5
+    citations: 6
     title: 'Pain intensity estimation via multimodal fusion: Leveraging ternary textures of derivatives in EDA and PPG signals'
     year: '2026'
   k0pnkggAAAAJ:vRqMK49ujn8C:
