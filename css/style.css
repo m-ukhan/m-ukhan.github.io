@@ -1,0 +1,157 @@
+/* ---------- General ---------- */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #222;
+    background: #fff;
+    line-height: 1.6;
+}
+
+.container {
+    width: 90%;
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+
+/* ---------- Navigation ---------- */
+
+header {
+    border-bottom: 1px solid #e5e5e5;
+    background: #fff;
+}
+
+.navbar {
+    min-height: 72px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    font-size: 1.25rem;
+    font-weight: 700;
+    text-decoration: none;
+    color: #111;
+}
+
+nav a {
+    margin-left: 28px;
+    color: #444;
+    text-decoration: none;
+    font-size: 0.95rem;
+}
+
+nav a:hover {
+    color: #0066cc;
+}
+
+
+/* ---------- Main Profile ---------- */
+
+.hero {
+    display: grid;
+    grid-template-columns: 260px 1fr;
+    gap: 55px;
+    align-items: start;
+    padding: 70px 0;
+}
+
+.profile-photo {
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.hero h1 {
+    margin: 0 0 8px;
+    font-size: 2.5rem;
+    line-height: 1.2;
+}
+
+.subtitle {
+    margin: 0 0 8px;
+    font-size: 1.15rem;
+    color: #555;
+}
+
+.affiliation {
+    color: #666;
+    margin-bottom: 25px;
+}
+
+.bio {
+    max-width: 720px;
+}
+
+
+/* ---------- Links ---------- */
+
+.profile-links {
+    margin-top: 25px;
+}
+
+.profile-links a {
+    display: inline-block;
+    margin-right: 18px;
+    margin-bottom: 8px;
+    color: #0066cc;
+    text-decoration: none;
+}
+
+.profile-links a:hover {
+    text-decoration: underline;
+}
+
+
+/* ---------- Sections ---------- */
+
+section {
+    padding: 45px 0;
+}
+
+section h2 {
+    font-size: 1.8rem;
+    margin-bottom: 25px;
+}
+
+
+/* ---------- Mobile ---------- */
+
+@media (max-width: 750px) {
+
+    .navbar {
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 18px 0;
+    }
+
+    nav {
+        margin-top: 12px;
+    }
+
+    nav a {
+        margin: 0 18px 0 0;
+    }
+
+    .hero {
+        grid-template-columns: 1fr;
+        gap: 30px;
+        padding: 40px 0;
+    }
+
+    .profile-photo {
+        width: 190px;
+        height: 190px;
+    }
+
+    .hero h1 {
+        font-size: 2rem;
+    }
+}
