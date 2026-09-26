@@ -1113,6 +1113,347 @@ section {
 
 
 /* ==========================================================
+   CV Page
+========================================================== */
+
+.cv-page-header {
+    max-width: 850px;
+}
+
+
+/* ---------- CV Header Links ---------- */
+
+.cv-header-links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px 22px;
+
+    margin-top: 22px;
+}
+
+.cv-header-links a {
+    color: #0066cc;
+
+    font-size: 0.95rem;
+    font-weight: 600;
+
+    text-decoration: none;
+}
+
+.cv-header-links a:hover {
+    color: #004999;
+    text-decoration: underline;
+}
+
+
+/* ---------- Main CV Sections ---------- */
+
+.cv-section {
+    display: grid;
+    grid-template-columns: 210px 1fr;
+    gap: 45px;
+
+    padding: 48px 0;
+
+    border-top: 1px solid #eeeeee;
+}
+
+.cv-section-title h2 {
+    margin: 0;
+
+    color: #1d1d1f;
+
+    font-size: 1.2rem;
+    font-weight: 700;
+
+    line-height: 1.4;
+}
+
+.cv-section-content {
+    max-width: 850px;
+}
+
+.cv-profile-text {
+    max-width: 800px;
+
+    margin: 0;
+
+    color: #555;
+
+    font-size: 0.97rem;
+
+    line-height: 1.7;
+}
+
+
+/* ---------- Research Interests ---------- */
+
+.cv-interest-list {
+    display: flex;
+    flex-wrap: wrap;
+
+    gap: 9px;
+}
+
+.cv-interest-list span {
+    padding: 6px 11px;
+
+    color: #555;
+    background-color: #f6f6f6;
+
+    border: 1px solid #e8e8e8;
+    border-radius: 4px;
+
+    font-size: 0.85rem;
+}
+
+
+/* ---------- Experience / Education ---------- */
+
+.cv-entry {
+    display: grid;
+    grid-template-columns: 120px 1fr;
+    gap: 25px;
+
+    padding: 0 0 28px;
+    margin-bottom: 28px;
+
+    border-bottom: 1px solid #eeeeee;
+}
+
+.cv-entry:last-child {
+    padding-bottom: 0;
+    margin-bottom: 0;
+
+    border-bottom: none;
+}
+
+.cv-entry-date {
+    padding-top: 3px;
+
+    color: #777;
+
+    font-size: 0.88rem;
+    font-weight: 600;
+}
+
+.cv-entry-content h3 {
+    margin: 0 0 4px;
+
+    color: #222;
+
+    font-size: 1.05rem;
+    font-weight: 600;
+}
+
+.cv-entry-content p {
+    margin: 7px 0 0;
+
+    color: #555;
+
+    font-size: 0.92rem;
+
+    line-height: 1.65;
+}
+
+.cv-entry-organisation {
+    margin-top: 0 !important;
+
+    color: #666 !important;
+
+    font-weight: 500;
+}
+
+
+/* ---------- Skills ---------- */
+
+.cv-skills-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    gap: 18px;
+}
+
+.cv-skill-group {
+    padding: 20px;
+
+    background-color: #fafafa;
+
+    border: 1px solid #eeeeee;
+    border-radius: 6px;
+}
+
+.cv-skill-group h3 {
+    margin: 0 0 7px;
+
+    color: #222;
+
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+.cv-skill-group p {
+    margin: 0;
+
+    color: #606060;
+
+    font-size: 0.88rem;
+
+    line-height: 1.6;
+}
+
+
+/* ---------- CV Publications ---------- */
+
+.cv-publication {
+    display: grid;
+    grid-template-columns: 65px 1fr;
+    gap: 20px;
+
+    padding: 18px 0;
+
+    border-bottom: 1px solid #eeeeee;
+}
+
+.cv-publication:first-child {
+    padding-top: 0;
+}
+
+.cv-publication-year {
+    color: #777;
+
+    font-size: 0.88rem;
+    font-weight: 600;
+}
+
+.cv-publication h3 {
+    margin: 0 0 4px;
+
+    color: #333;
+
+    font-size: 0.95rem;
+    font-weight: 600;
+
+    line-height: 1.5;
+}
+
+.cv-publication p {
+    margin: 0;
+
+    color: #666;
+
+    font-size: 0.88rem;
+}
+
+
+/* ---------- CV Links ---------- */
+
+.cv-more-link {
+    margin-top: 22px;
+}
+
+.cv-more-link a {
+    color: #0066cc;
+
+    font-size: 0.92rem;
+    font-weight: 600;
+
+    text-decoration: none;
+}
+
+.cv-more-link a:hover {
+    color: #004999;
+    text-decoration: underline;
+}
+
+
+/* ---------- Academic Service ---------- */
+
+.cv-service-block {
+    margin-bottom: 28px;
+}
+
+.cv-service-block:last-child {
+    margin-bottom: 0;
+}
+
+.cv-service-block h3 {
+    margin: 0 0 8px;
+
+    color: #222;
+
+    font-size: 1rem;
+}
+
+.cv-service-block p {
+    max-width: 780px;
+
+    margin: 0;
+
+    color: #555;
+
+    font-size: 0.92rem;
+
+    line-height: 1.7;
+}
+
+
+/* ---------- Awards ---------- */
+
+.cv-award-list p {
+    margin: 0 0 20px;
+
+    color: #555;
+
+    font-size: 0.92rem;
+
+    line-height: 1.6;
+}
+
+.cv-award-list p:last-child {
+    margin-bottom: 0;
+}
+
+
+/* ---------- Research Profiles ---------- */
+
+.cv-profile-section {
+    padding: 50px 0 70px;
+
+    border-top: 1px solid #eeeeee;
+}
+
+.cv-profile-section h2 {
+    margin: 0 0 18px;
+
+    color: #1d1d1f;
+
+    font-size: 1.5rem;
+}
+
+.cv-profile-links {
+    display: flex;
+    flex-wrap: wrap;
+
+    gap: 10px 22px;
+}
+
+.cv-profile-links a {
+    color: #0066cc;
+
+    font-size: 0.95rem;
+    font-weight: 600;
+
+    text-decoration: none;
+}
+
+.cv-profile-links a:hover {
+    color: #004999;
+    text-decoration: underline;
+}
+
+
+/* ==========================================================
    Footer
 ========================================================== */
 
@@ -1492,6 +1833,46 @@ footer p {
     .teaching-approach-section {
         padding: 45px 0 55px;
     }
+
+
+   /* ---------- CV Page ---------- */
+
+   .cv-section {
+       grid-template-columns: 1fr;
+       gap: 22px;
+   
+       padding: 40px 0;
+   }
+   
+   .cv-section-title h2 {
+       font-size: 1.15rem;
+   }
+   
+   .cv-entry {
+       grid-template-columns: 1fr;
+       gap: 5px;
+   
+       padding-bottom: 24px;
+       margin-bottom: 24px;
+   }
+   
+   .cv-entry-date {
+       padding-top: 0;
+   }
+   
+   .cv-skills-grid {
+       grid-template-columns: 1fr;
+       gap: 14px;
+   }
+   
+   .cv-publication {
+       grid-template-columns: 1fr;
+       gap: 4px;
+   }
+   
+   .cv-profile-section {
+       padding: 45px 0 55px;
+   }
 
 }
 
