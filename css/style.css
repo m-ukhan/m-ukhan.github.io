@@ -2236,3 +2236,428 @@ body.dark-theme .cv-more-link a {
     color: #58a6ff;
 }
 
+
+/* ==========================================================
+   Modern Homepage Hero
+========================================================== */
+
+.hero-modern {
+    grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
+    gap: 70px;
+
+    min-height: 610px;
+
+    padding: 85px 0 90px;
+}
+
+.hero-main {
+    max-width: 720px;
+}
+
+.hero-eyebrow {
+    display: inline-block;
+
+    margin: 0 0 18px;
+    padding: 7px 12px;
+
+    color: #087cf0;
+    background: #eaf4ff;
+
+    border: 1px solid #d4e8fb;
+    border-radius: 6px;
+
+    font-size: 0.78rem;
+    font-weight: 700;
+
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+}
+
+.hero-modern h1 {
+    margin-bottom: 15px;
+
+    font-size: clamp(2.8rem, 5vw, 4rem);
+
+    line-height: 1.08;
+    letter-spacing: -0.045em;
+}
+
+.hero-modern .subtitle {
+    max-width: 700px;
+
+    margin-bottom: 13px;
+
+    font-size: 1.12rem;
+}
+
+.hero-modern .affiliation {
+    margin-bottom: 25px;
+}
+
+.hero-modern .bio {
+    max-width: 690px;
+
+    font-size: 1rem;
+    line-height: 1.75;
+}
+
+
+/* ---------- Hero Buttons ---------- */
+
+.hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+
+    gap: 12px;
+
+    margin-top: 30px;
+}
+
+.hero-button {
+    display: inline-flex;
+
+    align-items: center;
+    justify-content: center;
+
+    min-height: 44px;
+
+    padding: 10px 18px;
+
+    border-radius: 7px;
+
+    font-size: 0.92rem;
+    font-weight: 700;
+
+    text-decoration: none;
+
+    transition:
+        transform 0.2s ease,
+        box-shadow 0.2s ease,
+        background-color 0.2s ease,
+        border-color 0.2s ease;
+}
+
+.hero-button:hover {
+    transform: translateY(-2px);
+}
+
+.hero-button-primary {
+    color: #ffffff;
+
+    background: linear-gradient(
+        135deg,
+        #087cf0,
+        #0067d8
+    );
+
+    border: 1px solid #087cf0;
+
+    box-shadow:
+        0 8px 20px rgba(8, 124, 240, 0.22);
+}
+
+.hero-button-primary:hover {
+    color: #ffffff;
+
+    box-shadow:
+        0 11px 25px rgba(8, 124, 240, 0.30);
+}
+
+.hero-button-secondary {
+    color: #16324f;
+
+    background: #ffffff;
+
+    border: 1px solid #cbdceb;
+}
+
+.hero-button-secondary:hover {
+    color: #087cf0;
+
+    border-color: #87bceb;
+
+    box-shadow:
+        0 8px 20px rgba(21, 53, 87, 0.08);
+}
+
+
+/* ---------- Hero Visual ---------- */
+
+.hero-visual {
+    position: relative;
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-photo-frame {
+    position: relative;
+
+    padding: 9px;
+
+    border: 1px solid #d7e6f4;
+    border-radius: 50%;
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(255,255,255,0.95),
+            rgba(234,244,255,0.85)
+        );
+
+    box-shadow:
+        0 25px 60px rgba(19, 55, 91, 0.16);
+}
+
+.hero-modern .profile-photo {
+    width: 270px;
+    height: 270px;
+
+    border: none;
+
+    box-shadow: none;
+}
+
+
+/* ---------- Technical Signal Decoration ---------- */
+
+.hero-signal {
+    position: absolute;
+
+    width: 420px;
+    height: 260px;
+
+    opacity: 0.34;
+
+    pointer-events: none;
+}
+
+.hero-signal::before {
+    content: "";
+
+    position: absolute;
+
+    inset: 0;
+
+    border-radius: 50%;
+
+    background:
+        radial-gradient(
+            circle,
+            rgba(8,124,240,0.15) 1px,
+            transparent 1.5px
+        );
+
+    background-size: 20px 20px;
+
+    mask-image:
+        radial-gradient(
+            ellipse at center,
+            black 20%,
+            transparent 72%
+        );
+}
+
+.hero-signal span {
+    position: absolute;
+
+    left: 0;
+
+    width: 100%;
+    height: 1px;
+
+    background:
+        linear-gradient(
+            90deg,
+            transparent,
+            rgba(8,124,240,0.15),
+            rgba(8,124,240,0.7),
+            rgba(8,124,240,0.15),
+            transparent
+        );
+}
+
+.hero-signal span:nth-child(1) {
+    top: 38%;
+    transform: rotate(-5deg);
+}
+
+.hero-signal span:nth-child(2) {
+    top: 50%;
+    transform: rotate(4deg);
+}
+
+.hero-signal span:nth-child(3) {
+    top: 62%;
+    transform: rotate(-2deg);
+}
+
+
+/* ---------- Hero Specialisms ---------- */
+
+.hero-specialisms {
+    display: flex;
+    flex-wrap: wrap;
+
+    justify-content: center;
+
+    gap: 7px;
+
+    max-width: 340px;
+
+    margin-top: 25px;
+}
+
+.hero-specialisms span {
+    padding: 6px 10px;
+
+    color: #31516e;
+    background: #f4f8fc;
+
+    border: 1px solid #dbe7f1;
+    border-radius: 999px;
+
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+
+/* ==========================================================
+   Dark Hero
+========================================================== */
+
+body.dark-theme .hero-eyebrow {
+    color: #72b9ff;
+
+    background: #102c48;
+
+    border-color: #24496b;
+}
+
+body.dark-theme .profile-photo-frame {
+    background:
+        linear-gradient(
+            145deg,
+            #13283d,
+            #0c1a29
+        );
+
+    border-color: #29445f;
+
+    box-shadow:
+        0 25px 60px rgba(0,0,0,0.35);
+}
+
+body.dark-theme .hero-button-secondary {
+    color: #d9e8f7;
+
+    background: #0e1c2b;
+
+    border-color: #2c465e;
+}
+
+body.dark-theme .hero-button-secondary:hover {
+    color: #58a6ff;
+
+    border-color: #3c78aa;
+}
+
+body.dark-theme .hero-specialisms span {
+    color: #b9d9f5;
+
+    background: #102337;
+
+    border-color: #27425c;
+}
+
+
+/* ==========================================================
+   Hero Responsive
+========================================================== */
+
+@media (max-width: 900px) {
+
+    .hero-modern {
+        grid-template-columns:
+            minmax(0, 1fr)
+            230px;
+
+        gap: 40px;
+
+        min-height: auto;
+
+        padding: 65px 0 70px;
+    }
+
+    .hero-modern .profile-photo {
+        width: 220px;
+        height: 220px;
+    }
+
+    .hero-signal {
+        width: 300px;
+        height: 220px;
+    }
+}
+
+
+@media (max-width: 700px) {
+
+    .hero-modern {
+        grid-template-columns: 1fr;
+
+        gap: 45px;
+
+        padding: 55px 0 65px;
+    }
+
+    .hero-main {
+        order: 1;
+    }
+
+    .hero-visual {
+        order: 2;
+    }
+
+    .hero-modern h1 {
+        font-size: 2.65rem;
+    }
+
+    .hero-modern .profile-photo {
+        width: 210px;
+        height: 210px;
+    }
+
+    .hero-actions {
+        margin-top: 26px;
+    }
+
+    .hero-signal {
+        width: 310px;
+        height: 220px;
+    }
+}
+
+
+@media (max-width: 420px) {
+
+    .hero-modern h1 {
+        font-size: 2.25rem;
+    }
+
+    .hero-actions {
+        flex-direction: column;
+    }
+
+    .hero-button {
+        width: 100%;
+    }
+
+    .hero-modern .profile-photo {
+        width: 190px;
+        height: 190px;
+    }
+}
