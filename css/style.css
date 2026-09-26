@@ -2150,3 +2150,89 @@ body.dark-theme footer{background:#0b1826;}
 @media(max-width:900px){.navbar{position:relative}.theme-toggle{position:absolute;top:18px;right:0;margin-left:0;}}
 @media(max-width:700px){.hero::after{width:300px;height:300px;right:-90px;top:120px;opacity:.7}nav a.active::after{bottom:-5px;}}
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{scroll-behavior:auto!important;transition-duration:.01ms!important;animation-duration:.01ms!important;animation-iteration-count:1!important;}}
+
+
+
+/* ==========================================================
+   Dark Theme - Text Contrast Fix
+========================================================== */
+
+body.dark-theme {
+    color: #e7eef7;
+}
+
+/* General secondary text */
+body.dark-theme p {
+    color: #b7c4d3;
+}
+
+/* Research cards */
+body.dark-theme .research-card p,
+body.dark-theme .research-detail-card p,
+body.dark-theme .method-group p {
+    color: #aebdcd;
+}
+
+/* Publications */
+body.dark-theme .publication-content h3,
+body.dark-theme .publication-entry h3 {
+    color: #f0f5fa;
+}
+
+body.dark-theme .publication-authors,
+body.dark-theme .publication-journal {
+    color: #aebdcd;
+}
+
+body.dark-theme .publication-year,
+body.dark-theme .year-heading {
+    color: #91a4b8;
+}
+
+/* Projects */
+body.dark-theme .project-summary,
+body.dark-theme .project-details p {
+    color: #aebdcd;
+}
+
+body.dark-theme .project-details h3 {
+    color: #dce6f0;
+}
+
+body.dark-theme .project-number {
+    color: #3c9cff;
+}
+
+/* Teaching */
+body.dark-theme .course-code,
+body.dark-theme .institution-location,
+body.dark-theme .teaching-role,
+body.dark-theme .teaching-area p {
+    color: #aebdcd;
+}
+
+/* CV */
+body.dark-theme .cv-entry-date,
+body.dark-theme .cv-entry-content p,
+body.dark-theme .cv-profile-text,
+body.dark-theme .cv-skill-group p,
+body.dark-theme .cv-publication p,
+body.dark-theme .cv-service-block p,
+body.dark-theme .cv-award-list p {
+    color: #aebdcd;
+}
+
+/* Earlier research */
+body.dark-theme .earlier-project-card > p {
+    color: #aebdcd;
+}
+
+/* Links */
+body.dark-theme .publication-links a,
+body.dark-theme .project-links a,
+body.dark-theme .button-link,
+body.dark-theme .research-page-links a,
+body.dark-theme .cv-more-link a {
+    color: #58a6ff;
+}
+
