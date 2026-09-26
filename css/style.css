@@ -2245,9 +2245,9 @@ body.dark-theme .cv-more-link a {
     grid-template-columns: minmax(0, 1.35fr) minmax(280px, 0.65fr);
     gap: 70px;
 
-    min-height: 610px;
+    min-height: 560px;
 
-    padding: 85px 0 90px;
+    padding: 75px 0 70px;
 }
 
 .hero-main {
