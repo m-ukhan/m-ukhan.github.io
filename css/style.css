@@ -4,7 +4,9 @@
 ========================================================== */
 
 
-/* ---------- Global ---------- */
+/* ==========================================================
+   Global
+========================================================== */
 
 * {
     box-sizing: border-box;
@@ -211,6 +213,7 @@ section {
     background-color: #ffffff;
     border: 1px solid #e5e5e5;
     border-radius: 8px;
+
     transition:
         transform 0.2s ease,
         box-shadow 0.2s ease,
@@ -239,19 +242,150 @@ section {
 
 
 /* ==========================================================
+   Selected Publications
+========================================================== */
+
+.publications-section {
+    padding: 65px 0 75px;
+    border-top: 1px solid #eeeeee;
+}
+
+.publication-list {
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* ---------- Individual Publication ---------- */
+
+.publication-item {
+    display: grid;
+    grid-template-columns: 75px 1fr;
+    gap: 28px;
+
+    padding: 28px 0;
+
+    border-bottom: 1px solid #eeeeee;
+}
+
+.publication-item:first-child {
+    border-top: 1px solid #eeeeee;
+}
+
+
+/* ---------- Publication Year ---------- */
+
+.publication-year {
+    padding-top: 3px;
+
+    color: #777;
+
+    font-size: 0.95rem;
+    font-weight: 600;
+}
+
+
+/* ---------- Publication Content ---------- */
+
+.publication-content {
+    max-width: 850px;
+}
+
+.publication-content h3 {
+    margin: 0 0 9px;
+
+    color: #222;
+
+    font-size: 1.08rem;
+    font-weight: 600;
+    line-height: 1.45;
+}
+
+.publication-authors {
+    margin: 0 0 5px;
+
+    color: #555;
+
+    font-size: 0.92rem;
+    line-height: 1.55;
+}
+
+.publication-journal {
+    margin: 0;
+
+    color: #666;
+
+    font-size: 0.92rem;
+    line-height: 1.55;
+}
+
+
+/* ---------- Publication Links ---------- */
+
+.publication-links {
+    margin-top: 10px;
+}
+
+.publication-links a {
+    display: inline-block;
+
+    margin-right: 15px;
+
+    color: #0066cc;
+
+    font-size: 0.9rem;
+    font-weight: 500;
+
+    text-decoration: none;
+}
+
+.publication-links a:hover {
+    color: #004999;
+    text-decoration: underline;
+}
+
+
+/* ---------- View All Publications ---------- */
+
+.all-publications {
+    margin-top: 32px;
+}
+
+.button-link {
+    display: inline-block;
+
+    color: #0066cc;
+
+    font-size: 0.95rem;
+    font-weight: 600;
+
+    text-decoration: none;
+}
+
+.button-link:hover {
+    color: #004999;
+    text-decoration: underline;
+}
+
+
+/* ==========================================================
    Footer
 ========================================================== */
 
 footer {
     margin-top: 20px;
     padding: 28px 0;
+
     background-color: #fafafa;
+
     border-top: 1px solid #e8e8e8;
 }
 
 footer p {
     margin: 0;
+
     color: #777;
+
     font-size: 0.88rem;
     text-align: center;
 }
@@ -263,14 +397,18 @@ footer p {
 
 @media (max-width: 900px) {
 
+    /* Navigation */
+
     .navbar {
         align-items: flex-start;
         flex-direction: column;
+
         padding: 18px 0;
     }
 
     nav {
         flex-wrap: wrap;
+
         margin-top: 12px;
     }
 
@@ -278,9 +416,14 @@ footer p {
         margin: 5px 22px 5px 0;
     }
 
+
+    /* Profile */
+
     .hero {
         grid-template-columns: 220px 1fr;
+
         gap: 40px;
+
         padding: 55px 0;
     }
 
@@ -307,10 +450,11 @@ footer p {
     }
 
 
-    /* Navigation */
+    /* ---------- Navigation ---------- */
 
     .navbar {
         min-height: auto;
+
         padding: 18px 0;
     }
 
@@ -320,20 +464,24 @@ footer p {
 
     nav {
         width: 100%;
+
         margin-top: 14px;
     }
 
     nav a {
         margin: 4px 18px 4px 0;
+
         font-size: 0.9rem;
     }
 
 
-    /* Profile */
+    /* ---------- Profile ---------- */
 
     .hero {
         grid-template-columns: 1fr;
+
         gap: 30px;
+
         padding: 45px 0 50px;
     }
 
@@ -363,22 +511,19 @@ footer p {
     }
 
 
-    /* Profile Links */
+    /* ---------- Profile Links ---------- */
 
     .profile-links {
         gap: 8px 18px;
+
         margin-top: 22px;
     }
 
 
-    /* Sections */
+    /* ---------- General Sections ---------- */
 
     section {
         padding: 45px 0;
-    }
-
-    .research-section {
-        padding: 50px 0 60px;
     }
 
     .section-heading {
@@ -390,15 +535,53 @@ footer p {
     }
 
 
-    /* Research */
+    /* ---------- Research ---------- */
+
+    .research-section {
+        padding: 50px 0 60px;
+    }
 
     .research-grid {
         grid-template-columns: 1fr;
+
         gap: 18px;
     }
 
     .research-card {
         padding: 24px;
+    }
+
+
+    /* ---------- Publications ---------- */
+
+    .publications-section {
+        padding: 50px 0 60px;
+    }
+
+    .publication-item {
+        grid-template-columns: 1fr;
+
+        gap: 5px;
+
+        padding: 24px 0;
+    }
+
+    .publication-year {
+        margin-bottom: 4px;
+        padding-top: 0;
+    }
+
+    .publication-content h3 {
+        font-size: 1.02rem;
+    }
+
+    .publication-authors,
+    .publication-journal {
+        font-size: 0.9rem;
+    }
+
+    .all-publications {
+        margin-top: 28px;
     }
 
 }
@@ -414,6 +597,9 @@ footer p {
         width: 90%;
     }
 
+
+    /* Profile */
+
     .profile-photo {
         width: 170px;
         height: 170px;
@@ -425,7 +611,19 @@ footer p {
 
     .profile-links {
         flex-direction: column;
+
         gap: 7px;
+    }
+
+
+    /* Publications */
+
+    .publication-item {
+        padding: 21px 0;
+    }
+
+    .publication-content h3 {
+        font-size: 1rem;
     }
 
 }
