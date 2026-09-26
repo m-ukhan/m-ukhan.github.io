@@ -1446,6 +1446,53 @@ footer p {
         padding: 45px 0 55px;
     }
 
+       /* ---------- Teaching Page ---------- */
+
+    .teaching-institution {
+        padding: 45px 0 55px;
+    }
+
+    .institution-header {
+        flex-direction: column;
+        gap: 8px;
+
+        margin-bottom: 25px;
+    }
+
+    .teaching-role {
+        margin-top: 0;
+    }
+
+    .course-grid {
+        grid-template-columns: 1fr;
+        gap: 12px;
+    }
+
+    .course-item {
+        padding: 17px 18px;
+    }
+
+    .teaching-subsection {
+        margin-top: 30px;
+    }
+
+    .teaching-areas-section {
+        padding: 45px 0 55px;
+    }
+
+    .teaching-areas-grid {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+
+    .teaching-area {
+        padding: 22px;
+    }
+
+    .teaching-approach-section {
+        padding: 45px 0 55px;
+    }
+
 }
 
 
