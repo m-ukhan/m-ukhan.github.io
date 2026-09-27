@@ -2395,30 +2395,84 @@ body.dark-theme .cv-more-link a {
 
 .profile-photo-frame {
     position: relative;
-
-    padding: 9px;
-
-    border: 1px solid #d7e6f4;
+    width: 315px;
+    height: 315px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px;
+    border: none;
     border-radius: 50%;
-
-    background:
-        linear-gradient(
-            145deg,
-            rgba(255,255,255,0.95),
-            rgba(234,244,255,0.85)
-        );
-
-    box-shadow:
-        0 25px 60px rgba(19, 55, 91, 0.16);
+    background: transparent;
+    filter: drop-shadow(0 20px 35px rgba(0, 0, 0, 0.25));
 }
 
+/* ---------- Main Broken Orbital Ring ---------- */
+.profile-photo-frame::before {
+    content: "";
+    position: absolute;
+    inset: -14px;
+    border-radius: 50%;
+    background: conic-gradient(
+        from 15deg,
+        #3c9cff 0deg 48deg,
+        transparent 48deg 78deg,
+        rgba(60,156,255,.35) 78deg 145deg,
+        transparent 145deg 185deg,
+        #087cf0 185deg 245deg,
+        transparent 245deg 280deg,
+        rgba(60,156,255,.55) 280deg 335deg,
+        transparent 335deg 360deg
+    );
+    -webkit-mask: radial-gradient(farthest-side, transparent calc(100% - 2px), #000 calc(100% - 2px));
+    mask: radial-gradient(farthest-side, transparent calc(100% - 2px), #000 calc(100% - 2px));
+    opacity: .85;
+    pointer-events: none;
+}
+
+/* ---------- Second Outer Orbit ---------- */
+.profile-photo-frame::after {
+    content: "";
+    position: absolute;
+    inset: -27px;
+    border-radius: 50%;
+    background: conic-gradient(
+        from 210deg,
+        transparent 0deg 35deg,
+        rgba(60,156,255,.25) 35deg 92deg,
+        transparent 92deg 180deg,
+        rgba(60,156,255,.55) 180deg 225deg,
+        transparent 225deg 310deg,
+        rgba(60,156,255,.25) 310deg 345deg,
+        transparent 345deg 360deg
+    );
+    -webkit-mask: radial-gradient(farthest-side, transparent calc(100% - 1px), #000 calc(100% - 1px));
+    mask: radial-gradient(farthest-side, transparent calc(100% - 1px), #000 calc(100% - 1px));
+    pointer-events: none;
+}
+
+/* ---------- Actual Photograph ---------- */
 .hero-modern .profile-photo {
+    position: relative;
+    z-index: 2;
+    display: block;
     width: 295px;
     height: 295px;
+    object-fit: cover;
+    object-position: center;
+    border: 5px solid #ffffff;
+    border-radius: 50%;
+    box-shadow:
+        0 0 0 1px rgba(60,156,255,.25),
+        0 0 30px rgba(8,124,240,.12);
+    transition: transform .3s ease, box-shadow .3s ease;
+}
 
-    border: none;
-
-    box-shadow: none;
+.profile-photo-frame:hover .profile-photo {
+    transform: scale(1.015);
+    box-shadow:
+        0 0 0 1px rgba(60,156,255,.45),
+        0 0 38px rgba(8,124,240,.20);
 }
 
 
@@ -2538,17 +2592,17 @@ body.dark-theme .hero-eyebrow {
 }
 
 body.dark-theme .profile-photo-frame {
-    background:
-        linear-gradient(
-            145deg,
-            #13283d,
-            #0c1a29
-        );
+    background: transparent;
+    border-color: transparent;
+    box-shadow: none;
+    filter: drop-shadow(0 20px 35px rgba(0,0,0,.32));
+}
 
-    border-color: #29445f;
-
+body.dark-theme .hero-modern .profile-photo {
+    border-color: #132a40;
     box-shadow:
-        0 25px 60px rgba(0,0,0,0.35);
+        0 0 0 1px rgba(60,156,255,.30),
+        0 0 32px rgba(8,124,240,.16);
 }
 
 body.dark-theme .hero-button-secondary {
@@ -2592,6 +2646,11 @@ body.dark-theme .hero-specialisms span {
         padding: 65px 0 70px;
     }
 
+    .profile-photo-frame {
+        width: 240px;
+        height: 240px;
+    }
+
     .hero-modern .profile-photo {
         width: 220px;
         height: 220px;
@@ -2626,6 +2685,11 @@ body.dark-theme .hero-specialisms span {
         font-size: 2.65rem;
     }
 
+    .profile-photo-frame {
+        width: 230px;
+        height: 230px;
+    }
+
     .hero-modern .profile-photo {
         width: 210px;
         height: 210px;
@@ -2654,6 +2718,11 @@ body.dark-theme .hero-specialisms span {
 
     .hero-button {
         width: 100%;
+    }
+
+    .profile-photo-frame {
+        width: 210px;
+        height: 210px;
     }
 
     .hero-modern .profile-photo {
